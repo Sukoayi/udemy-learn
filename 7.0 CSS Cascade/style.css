@@ -1,0 +1,24 @@
+/* Don't change the existing CSS. */
+#outer-box{
+  background-color: antiquewhite;
+}
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+.inner-box {
+  background-color: orange;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+.white{
+  color: white;
+
+}
